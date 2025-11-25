@@ -1,4 +1,4 @@
-# Search Word
+# Word Search
 
 ### This Java program was inspire by Word Search problem from Leetcode
 [79. Word Search](https://leetcode.com/problems/word-search/)
